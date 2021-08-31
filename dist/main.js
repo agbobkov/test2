@@ -1,1 +1,1 @@
-console.log("John000111");
+console.log("John");
